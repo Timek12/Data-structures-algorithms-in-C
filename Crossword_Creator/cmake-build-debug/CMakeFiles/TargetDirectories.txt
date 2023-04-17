@@ -1,0 +1,3 @@
+C:/Users/HP/OneDrive - Politechnika Łódzka/Desktop/New folder/Crossword_Creator/cmake-build-debug/CMakeFiles/zad6_16.dir
+C:/Users/HP/OneDrive - Politechnika Łódzka/Desktop/New folder/Crossword_Creator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/OneDrive - Politechnika Łódzka/Desktop/New folder/Crossword_Creator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
