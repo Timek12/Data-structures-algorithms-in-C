@@ -1,0 +1,3 @@
+C:/Users/HP/CLionProjects/PP2/zad5.7/cmake-build-debug/CMakeFiles/zad5_7.dir
+C:/Users/HP/CLionProjects/PP2/zad5.7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/CLionProjects/PP2/zad5.7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
