@@ -1,3 +1,0 @@
-C:/Users/HP/CLionProjects/PP2/zad3.12/cmake-build-debug/CMakeFiles/zad3_12.dir
-C:/Users/HP/CLionProjects/PP2/zad3.12/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/HP/CLionProjects/PP2/zad3.12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
